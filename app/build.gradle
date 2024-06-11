@@ -52,5 +52,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
 
     implementation 'org.apache.commons:commons-lang3:3.8'
-    implementation "br.com.auttar.mobile:payment-sdk-homologRelease:2.19.4"
+    implementation "br.com.auttar.mobile:payment-sdk-homologRelease:2.20.0"
 }
