@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ingenico.lar.bc</groupId>
+  <artifactId>bcapos-dx</artifactId>
+  <versioning>
+    <latest>6.13-release</latest>
+    <release>6.13-release</release>
+    <versions>
+      <version>5.13</version>
+      <version>6.05-debug</version>
+      <version>6.05-release</version>
+      <version>6.09-debug</version>
+      <version>6.09-release</version>
+      <version>6.13-debug</version>
+      <version>6.13-release</version>
+    </versions>
+    <lastUpdated>20240304171112</lastUpdated>
+  </versioning>
+</metadata>
